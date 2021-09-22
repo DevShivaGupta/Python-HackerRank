@@ -1,4 +1,5 @@
 ## Arithmetic Operators
+Check [Tutorial](https://www.hackerrank.com/challenges/python-arithmetic-operators/tutorial) tab to know how to to solve
 #### Task
 The provided code stub reads two integers from STDIN, **a** and **b**. Add code to print three lines where:
 

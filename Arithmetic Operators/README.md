@@ -40,7 +40,7 @@ Print the three lines as explained above.
 #### Explanation 0
 **3+2=>5<br/>**
 **3-2=>1<br/>**
-**3X2=>6 **
+**3X2=>6 
 
 
 

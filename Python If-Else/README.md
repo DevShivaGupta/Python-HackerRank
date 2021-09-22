@@ -1,5 +1,5 @@
 ## Python If-Else
-########## Check [Tutorial](https://www.hackerrank.com/challenges/py-if-else/tutorial) tab to know how to to solve.
+Check [Tutorial](https://www.hackerrank.com/challenges/py-if-else/tutorial) tab to know how to to solve.
 
 #### Task
 Given an integer,**n**, perform the following conditional actions:

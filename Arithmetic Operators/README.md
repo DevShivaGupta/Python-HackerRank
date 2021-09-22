@@ -1,26 +1,47 @@
-## Say "Hello, World!" With Python
+## Arithmetic Operators
 #### Task
-The provided code stub reads two integers from STDIN,  and . Add code to print three lines where:
+The provided code stub reads two integers from STDIN, **a** and **b**. Add code to print three lines where:
 
-The first line contains the sum of the two numbers.
-The second line contains the difference of the two numbers (first - second).
-The third line contains the product of the two numbers
+1. The first line contains the sum of the two numbers.
+2. The second line contains the difference of the two numbers (first - second).
+3. The third line contains the product of the two numbers
 
-	print("Hello, World!")
-You can just as easily store a string as a variable and then print it to stdout:
+#### Example
+**a=3<br/>
+b=5**
 
-	my_string = "Hello, World!"
-	print(my_string)
-The above code will print Hello, World! on your screen. Try it yourself in the editor below!
+Print the following:
 
+	8
+	-2
+	15
 #### Input Format
 
-You do not need to read any input in this challenge.
+The first line contains the first integer, **a**.<br/>
+The second line contains the second integer, **b**.
+
+#### Constraints
+**1≤a≤10<sup>10</sup><br/>
+1≤b≤10<sup>10</sup>**
 
 #### Output Format
 
-Print Hello, World! to stdout.
+Print the three lines as explained above.
 
+#### Sample Input 0
+
+	3
+	2
 #### Sample Output 0
 
-	Hello, World!
+	5
+	1
+	6
+#### Explanation 0
+**3+2=>5<br/>**
+**3-2=>1<br/>**
+**3X2=>6 **
+
+
+
+

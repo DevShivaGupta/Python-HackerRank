@@ -1,5 +1,5 @@
-Check [Tutorial](https://www.hackerrank.com/challenges/py-hello-world/tutorial) tab to know how to to solve
 ## Say "Hello, World!" With Python
+Check [Tutorial](https://www.hackerrank.com/challenges/py-hello-world/tutorial) tab to know how to to solve<br/>
 
 Here is a sample line of code that can be executed in Python:
 

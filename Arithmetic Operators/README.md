@@ -1,6 +1,10 @@
 ## Say "Hello, World!" With Python
+#### Task
+The provided code stub reads two integers from STDIN,  and . Add code to print three lines where:
 
-Here is a sample line of code that can be executed in Python:
+The first line contains the sum of the two numbers.
+The second line contains the difference of the two numbers (first - second).
+The third line contains the product of the two numbers
 
 	print("Hello, World!")
 You can just as easily store a string as a variable and then print it to stdout:

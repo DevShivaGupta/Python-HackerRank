@@ -1,3 +1,4 @@
+Check [Tutorial](https://www.hackerrank.com/challenges/py-hello-world/tutorial) tab to know how to to solve
 ## Say "Hello, World!" With Python
 
 Here is a sample line of code that can be executed in Python:

@@ -35,5 +35,5 @@ Print Weird if the number is weird. Otherwise, print Not Weird.
 
 	Not Weird
 #### Explanation 1
-**n=24**
+**n=24**<br/>
 **n>20** and **n** is even, so it is not weird. 

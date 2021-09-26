@@ -1,7 +1,7 @@
 ## Loops
 Check [Tutorial](https://www.hackerrank.com/challenges/python-loops/tutorial) tab to know how to to solve.
 #### Task
-The provided code stub reads and integer,**n**, from STDIN. For all non-negative integers **i<n, print i<sup>2</sup>.
+The provided code stub reads and integer,**n**, from STDIN. For all non-negative integers **i<n**, print i<sup>2</sup>.
 
 #### Example
 **n=3**<br/>

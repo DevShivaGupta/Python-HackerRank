@@ -1,49 +1,35 @@
 ## Python: Division
-Check the Tutorial tab to know learn about division operators.
+Check the [Tutorial](https://www.hackerrank.com/challenges/python-division/tutorial) tab to know learn about division operators.
 #### Task
-Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.
+The provided code stub reads two integers, **a** and **b**, from STDIN.
+<br/>
+Add logic to print two lines. The first line should contain the result of integer division, **a** // **b**. The second line should contain the result of float division, **a** / **b**.
+<br/>
+No rounding or formatting is necessary.
 
 #### Example
-***mealcost***=**100**
-***tippercent***=**15**
-***taxpercent***=**8**
-A tip of 15% * 100 = 15, and the taxes are 8% * 100 = 8. Print the value  and return from the function.
+**a=3**
+**b=5**
+* The result of the integer division **3//5=0**.
+* The result of the float division is **3/5=0.6**.
+Print:
 
-#### Function Description
-Complete the solve function in the editor below.
-
-solve has the following parameters:
-
-* int meal_cost: the cost of food before tip and tax
-* int tip_percent: the tip percentage
-* int tax_percent: the tax percentage
-Returns The function returns nothing. Print the calculated value, rounded to the nearest integer.
-
-Note: Be sure to use precise values for your calculations, or you may end up with an incorrectly rounded result.
-
+	0
+	0.6
 #### Input Format
 
-There are **3** lines of numeric input:
-The first line has a double, ***mealcost*** (the cost of the meal before tax and tip).
-The second line has an integer, ***tippercent*** (the percentage of ***mealcost*** being added as tip).
-The third line has an integer, ***taxpercent*** (the percentage of ***mealcost*** being added as tax).
+The first line contains the first integer, **a**.
+The second line contains the second integer, **b**.
 
-#### Sample Input
+#### Output Format
 
-	12.00
-	20
-	8
-#### Sample Output
+Print the two lines as described above.
 
-	15
-#### Explanation
+#### Sample Input 0
 
-Given:
-***mealcost*** **=12**,***tip_percent*** **= 20** ,***tax_percent*** **=8** 
+	4
+	3
+#### Sample Output 0
 
-Calculations:
-**tip=12 and (12/100)*20=2.4
-tax=8 and (8/100)*20=0.96
-total_cost=meat_cost+tip+tax=12+2.4+0.96=15.36
-round(total_cost)=15
-We round **total_cost** to the nearest integer and print the result, **15**.
+	1
+	1.33333333333
